@@ -20,5 +20,5 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "qzdl.github.io"
+DISQUS_SITENAME = "qzdl"
 #GOOGLE_ANALYTICS = ""
