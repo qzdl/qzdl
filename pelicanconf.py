@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Samuel L Culpepper'
-SITENAME = 'Data Science By Numbers'
+SITENAME = 'Data Science By Numbers.'
 SITEURL = 'https://qzdl.github.io'
 
 PATH = 'content'
